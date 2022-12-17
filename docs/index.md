@@ -4,9 +4,9 @@ layout: home
 hero:
   name: I build products that retrieve and analyse complex data
   text: 
-  tagline: and I enjoy software development in general!
+  tagline:
   image:
-    src: assets/me.png
+    src: /me.png
     alt: Moi
   actions:
     - theme: brand
@@ -17,7 +17,7 @@ hero:
       link: https://github.com/raghavm1
     - theme: sponsor
       text: whoami
-      link: https://github.com/raghavm1
+      link: ./whoami/moi
 
 --- 
 
