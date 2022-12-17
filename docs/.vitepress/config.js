@@ -5,6 +5,9 @@ export default {
   base: "",
   description: "About me (मेरे बारे मेँ)",
   themeConfig: {
+    socialLinks: [
+      { icon: "linkedin", link: "https://linkedin.com/in/raghav07mantri" },
+    ],
     nav: [{ text: "Get in touch", link: "mailto:mantriraghav11@gmail.com" }],
   },
 };
