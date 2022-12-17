@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,b as o}from"./app.bed4de13.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"whoami/resume.md"}'),a={name:"whoami/resume.md"},r=o("p",null,"Resume goes here",-1),n=[r];function c(_,m,i,d,p,l){return s(),t("div",null,n)}const f=e(a,[["render",c]]);export{h as __pageData,f as default};
