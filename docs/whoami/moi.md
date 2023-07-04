@@ -1,10 +1,17 @@
 # `whoami`
 
-Hey, folks! I'm Raghav, a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU, Singapore](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
+Hey, folks! I'm Raghav, a new grad student in Computer Science @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). I most recently worked as a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU, Singapore](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
 
+In addition to my corporate experience, I have research experience in Time Series Forecasting.
 Learn more about my research [here](/research)
 
 ## 🎓Education
+
+### [New York University](https://www.nyu.edu/) 🇺🇸
+
+#### M.S. - Computer Science (September 2023 - May 2025)
+
+I'll be studying at the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/)
 
 ### [Nanyang Technological University](https://www.ntu.edu.sg/) 🇸🇬
 
@@ -19,13 +26,21 @@ Learn more about my research [here](/research)
 
 ### Solutions Engineer @ [Squirro](https://squirro.com)
 
-#### September 2022 - present
+#### September 2022 - June 2023
 
-At Squirro, I'm working as a solutions engineer to craft bespoke solutions for clients who want to use our insights engine.
+At Squirro, I worked as a solutions engineer to craft bespoke solutions for clients who want to use our insights engine.
 
-Currently I focus on the backend aspects of developing features and tools to deliver to clients, as per their requirements.
+Here, I was involved in developing solutions for Squirro's flagship client's digital transformation initiative, one of the biggest banks in Southeast Asia - OCBC Bank.
+Here, I focus on the backend aspects of developing features and tools to deliver to clients, as per their requirements.
 
-Skills - Python, Redis, Bash
+Key outcomes -
+
+- Developed the activity tracking feature for keeping an audit trail of user actions regarding who uploaded what documents in, and what metadata was updated and when.
+- Created dashboards for admins to visualise and track this audit data.
+- Collaborated with customers on a strategic and operational level throughout the stages of solution design, implementation, and support.
+- Handled on-premise deployment and DevOps tasks to deploy latest features, and automated these actions using bash scripts
+
+Skills - Python, Redis, Bash, ReactJS
 
 ### Software Engineer (full-stack) @ [Synthesis](https://home.synthesis.partners)
 
