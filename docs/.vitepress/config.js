@@ -1,9 +1,10 @@
 export default {
-  title: "Raghav Mantri",
+  title: "🏠Home",
   siteTitle: "Raghav Mantri",
   logo: "",
   base: "",
   description: "About me (मेरे बारे मेँ)",
+  cleanUrls: true,
   themeConfig: {
     socialLinks: [
       { icon: "linkedin", link: "https://linkedin.com/in/raghav07mantri" },
