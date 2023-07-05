@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: Raghav Mantri
-  text: 
-  tagline: Hi👋! I'm an MS in CS student @ NYU Courant, previously @ Squirro as a Solutions Engineer. I like to build tools to analyse complex data using my skills in full-stack development and machine learning.
+  text: I build tools that analyse complex data using ML and full-stack dev.
+  tagline: Hi👋! I'm an MSCS student @ NYU Courant, previously @ Squirro as a Solutions Engineer
   image:
     src: /me.png
     alt: Moi
@@ -13,10 +13,10 @@ hero:
       text: 🙆‍♂️About me
       link: ./whoami/moi
     - theme: alt
-      text: 💼 View my resumé
+      text: 💼 Resumé
       link: https://drive.google.com/file/d/1oBnoXWGEcCDZb0Ai5rPfTLTWcDZqYjXN/view?usp=sharing
     - theme: sponsor
-      text: 💻 Check out my GitHub
+      text: 👾 GitHub
       link: https://github.com/raghavm1
 
 --- 

@@ -1,6 +1,6 @@
 # `whoami`
 
-Hey, folks! I'm Raghav, a new grad student in Computer Science @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). I most recently worked as a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU, Singapore](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
+Hey, folks! I'm Raghav, a new grad student in Computer Science @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). I most recently worked as a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
 
 In addition to my corporate experience, I have research experience in Time Series Forecasting.
 Learn more about my research [here](/research)

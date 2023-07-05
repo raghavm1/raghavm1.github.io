@@ -8,4 +8,8 @@
       --vp-c-brand-lighter: #646cff;
       --vp-c-brand-dark: #646cff;
       --vp-c-brand-darker: #646cff;
-}
+      .text {
+        font-size: xx-large;
+        line-height: 120%;
+      }
+}       

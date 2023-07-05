@@ -4,6 +4,7 @@ export default {
   logo: "",
   base: "",
   description: "About me (मेरे बारे मेँ)",
+  cleanUrls: true,
   themeConfig: {
     socialLinks: [
       { icon: "linkedin", link: "https://linkedin.com/in/raghav07mantri" },
