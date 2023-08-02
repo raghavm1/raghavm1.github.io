@@ -1,6 +1,6 @@
 export default {
-  title: "Home",
-  siteTitle: "Raghav Mantri",
+  title: "Raghav Mantri",
+  siteTitle: "Home",
   logo: "",
   base: "",
   description: "About me (मेरे बारे मेँ)",
