@@ -1,5 +1,5 @@
 export default {
-  title: "🏠Home",
+  title: "Home",
   siteTitle: "Raghav Mantri",
   logo: "",
   base: "",
