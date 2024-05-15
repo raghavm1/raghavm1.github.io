@@ -1,5 +1,7 @@
 # Research
 
+Currently I'm working on research in NLP, specifically in understanding how positional bias works in language models and how we can mitigate it. I'll be working under [Prof. Duygu Ataman](https://www.duyguataman.com/) on this research project.
+
 I have experience in research on time series forecasting, and am currently working with [Mr. Suhwan Chung](https://www.linkedin.com/in/suhwan-chung/) on further enhancing accuracies and computational efficiency when doing time series forecasting.
 
 My current interests lie in exploring NLP and ML to enhance insights generation and analysis for unstructured data like text and documents.
@@ -18,7 +20,7 @@ Key outcomes -
 
 ## URECA
 
-I enrolled in an invite-only research programme in NTU known as [URECA](https://www.ntu.edu.sg/education/undergraduate-research-experience-on-campus-(ureca)). Here I researched about forecasting exchange rates using Restricted Boltzmann Machines.
+I enrolled in an invite-only research programme in NTU known as [URECA](<https://www.ntu.edu.sg/education/undergraduate-research-experience-on-campus-(ureca)>). Here I researched about forecasting exchange rates using Restricted Boltzmann Machines.
 
 Key outcomes -
 

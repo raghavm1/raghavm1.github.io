@@ -1,6 +1,8 @@
 # `whoami`
 
-Hey, folks! I'm Raghav, a new grad student in Computer Science @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). I most recently worked as a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
+I'm Raghav, a grad student in Computer Science @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). I most recently worked as a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
+
+I'm currently engaged in independent NLP research under Prof. Ataman.
 
 In addition to my corporate experience, I have research experience in Time Series Forecasting.
 Learn more about my research [here](/research)
@@ -22,7 +24,13 @@ I'll be studying at the [Courant Institute of Mathematical Sciences](https://cim
 - NTU President Research Scholar
 - Co-curricular highlights - President @ NTU Entrepreneurship Society, Vice Chair @ Hackers for Charity (NTU Open Source Society)
 
-## 💼Corporate Experience
+## 💼 Experience
+
+### Research Assistant @ [NYU Courant](https://cims.nyu.edu)
+
+#### March 2024 - Present
+
+My research is focused on NLP. I'll be working under [Prof Duygu Ataman](https://www.duyguataman.com/) on mitigating positional bias in Language Models.
 
 ### Solutions Engineer @ [Squirro](https://squirro.com)
 
