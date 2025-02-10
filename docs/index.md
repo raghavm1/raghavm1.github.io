@@ -14,7 +14,7 @@ hero:
       link: ./whoami/moi
     - theme: alt
       text: 💼 Resumé
-      link: https://drive.google.com/file/d/1oBnoXWGEcCDZb0Ai5rPfTLTWcDZqYjXN/view?usp=sharing
+      link: https://drive.google.com/file/d/104gqPvLmdhh34DmjZWOcoPeb2xSevPN8/view?usp=sharing
     - theme: sponsor
       text: 👾 GitHub
       link: https://github.com/raghavm1
