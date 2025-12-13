@@ -1,10 +1,8 @@
 # `whoami`
 
-I'm Raghav, a grad student in Computer Science @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). I most recently worked as a solutions engineer at [Squirro](https://squirro.com/). I'm an [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy developing software using my full-stack development and data science skills.
+I'm Raghav, a Machine Learning engineer at Google who went to grad school @ NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/). Here, I studied Computer Science. I'm also an [NTU (Nanyang Technological University)](https://www.ntu.edu.sg/) graduate where I majored in Computer Engineering. I enjoy building ML models, analyzing data and developing software.
 
-I'm currently engaged in independent NLP research under Prof. Ataman.
-
-In addition to my corporate experience, I have research experience in Time Series Forecasting.
+In addition to my corporate experience, I have research experience in NLP as well as Time Series Forecasting.
 Learn more about my research [here](/research)
 
 ## 🎓Education
@@ -13,7 +11,7 @@ Learn more about my research [here](/research)
 
 #### M.S. - Computer Science (September 2023 - May 2025)
 
-I'll be studying at the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/)
+[Courant Institute of Mathematical Sciences](https://cims.nyu.edu/)
 
 ### [Nanyang Technological University](https://www.ntu.edu.sg/) 🇸🇬
 
@@ -26,11 +24,19 @@ I'll be studying at the [Courant Institute of Mathematical Sciences](https://cim
 
 ## 💼 Experience
 
+### ML Engineer @ [Google](https://google.com)
+
+#### October 2025 - Present
+
+### AI Solutions Engineer @ [Abnormal AI](https://abnormal.ai)
+
+#### August 2025 - October 2025
+
 ### Research Assistant @ [NYU Courant](https://cims.nyu.edu)
 
-#### March 2024 - Present
+#### March 2024 - June 2025
 
-My research is focused on NLP. I'll be working under [Prof Duygu Ataman](https://www.duyguataman.com/) on mitigating positional bias in Language Models.
+My research is focused on NLP. I worked under [Prof Duygu Ataman](https://www.duyguataman.com/) on mitigating positional bias in Language Models.
 
 ### Solutions Engineer @ [Squirro](https://squirro.com)
 
