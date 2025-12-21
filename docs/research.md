@@ -1,10 +1,12 @@
 # Research
 
-Currently I'm working on research in NLP, specifically in understanding how positional bias works in language models and how we can mitigate it. I'll be working under [Prof. Duygu Ataman](https://www.duyguataman.com/) on this research project.
+I most recently conducted research in NLP, specifically in understanding how positional bias works in language models and how we can mitigate it. I worked under [Prof. Duygu Ataman](https://www.duyguataman.com/) on this research project.
 
-I have experience in research on time series forecasting, and am currently working with [Mr. Suhwan Chung](https://www.linkedin.com/in/suhwan-chung/) on further enhancing accuracies and computational efficiency when doing time series forecasting.
+I have experience in research on time series forecasting, and have worked with [Mr. Suhwan Chung](https://www.linkedin.com/in/suhwan-chung/) and [Dr. Jagath Rajapakse](https://personal.ntu.edu.sg/asjagath/) on further enhancing accuracies and computational efficiency when doing time series forecasting.
 
-My current interests lie in exploring NLP and ML to enhance insights generation and analysis for unstructured data like text and documents.
+## Current Interests
+
+⚠️ This section is currently under construction.
 
 ## Undergraduate Thesis (Final Year Project)
 
